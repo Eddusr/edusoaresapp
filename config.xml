@@ -4,7 +4,9 @@
         id="org.eduardosoares.edusoaresapp"
         version="1.0.0">
 
-    <name>Menu Restaurante</name>
+    <name>
+            Menu Restaurante
+    </name>
 
     <description>
         Menu do restaurante
